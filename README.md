@@ -22,4 +22,4 @@ MindWiki was designed to be an impartial, factual, and moderated forum for findi
 
 <b> This program currently only functions on UNIX-based and Windows systems because of how the file structure is setup! Please feel free to create your own verisons.
   
-  <b> My software won't run on ChromeOS! Sorry. 
+  <b> My software won't run on ChromeOS! Not because of hardware problems, but because your OS sucks!
