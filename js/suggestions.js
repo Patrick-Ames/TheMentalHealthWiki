@@ -6,7 +6,6 @@ let suggestions = [
     "Pica",
     "Rumination Disorder",
     "Suicidal Ideation",
-    "Self-Harm",
     "Anxiety",
     "Depression",
     "Bipolar Disorder",
